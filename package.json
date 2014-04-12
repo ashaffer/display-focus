@@ -1,0 +1,18 @@
+{
+  "name": "display-focus",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "display-focus": "bin/display-focus.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashaffer",
+  "license": "ISC",
+  "dependencies": {
+    "wmctrl": "0.0.2",
+    "event-stream": "^3.1.1"
+  }
+}
