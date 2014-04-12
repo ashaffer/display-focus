@@ -12,7 +12,7 @@
   "author": "ashaffer",
   "license": "ISC",
   "dependencies": {
-    "wmctrl": "0.0.2",
+    "wmctrl": "0.0.3",
     "event-stream": "^3.1.1"
   }
 }

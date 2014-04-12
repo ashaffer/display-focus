@@ -34,7 +34,6 @@ module.exports = function(direction) {
             return a.order - b.order;
           });
 
-          console.log('sorted', sorted);
           wmctrl.activate(sorted[0].id);
         });
     }));
