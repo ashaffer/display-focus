@@ -8,4 +8,4 @@ if(['left', 'right'].indexOf(direction) === -1) {
   process.exit(-1);
 }
 
-require('display-focus')(direction);
+require('..')(direction);
